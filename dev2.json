@@ -1,0 +1,23 @@
+[
+    {
+      "index": 0,
+      "sentence": [
+        "I",
+        "like",
+        "mango",
+        "but",
+        "not",
+        "orange",
+        "."
+      ],
+      "labels": [
+        "PRP",
+        "VBP",
+        "NNP",
+        "CC",
+        "RB",
+        "NNP",
+        "."
+      ]
+    }
+  ]
